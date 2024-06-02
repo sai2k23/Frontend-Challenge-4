@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lilita+One&family=REM:ital,wght@0,100..900;1,100..900&display=swap');
+.left-side {
+    margin-top: 200px;
+    text-align: center;
+    margin-left: 350px;
+    background-color: #5f3ffc;
+    border-radius: 15px;
+}
+.left-side-p {
+    color: #ada0fe;
+    font-size: 20px;
+}
+.marks-p {
+    color: #fff;
+    border-radius: 80%;
+    padding-top: 25px;
+   height: 150px;
+   width: 150px;
+   margin-left: 80px;
+   font-size: 30px;
+   background-color: #462ad8;
+}
+.left-side-h2 {
+    color: white;
+}
+.left-side-p1 {
+    color: #ACABFF;
+}
+.right-side {
+    margin-top: 200px;
+}
+.right-side-p {
+    font-family: "Lilita One", sans-serif;
+    font-size: 15px;
+}
+.right-side-p1 {
+    font-size: 20px;
+    color: #ed3535;
+    background-color: #FFD8D8 ;
+    border: 1px solid #FFD8D8;
+    border-radius: 5px;
+    padding: 10px;
+}
+.marks-img {
+    padding-right: 10px;
+}
+.marks-1 {
+    padding-left: 99px;
+    color: #343A4A;
+}
+.marks1 {
+    color: #d1c5d7;
+}
+.right-side-p2 {
+   font-size: 20px;
+    color: #E0B559;
+    background-color: #FFFBF2;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #FFFBF2;
+}
+.right-side-p3 {
+    font-size: 20px;
+    color: #72CEB9;
+    background-color: #F2FBFA;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid  #F2FBFA;
+}
+.right-side-p4 {
+    font-size: 20px;
+    color: #8e94eb;
+    background-color: #f3f3fd;
+    border-radius: 5px;
+    padding: 10px;
+    border: 1px solid #f3f3fd;
+}
+.marks-2 {
+    padding-left: 115px;
+    color: #343A4A;
+}
+.right-side-footer {
+    color: #d7dce5;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+    border: 1px solid #303b5a;
+    background-color: #303b5a;
+    border-radius: 40px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
